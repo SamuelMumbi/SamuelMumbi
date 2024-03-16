@@ -4,7 +4,7 @@
 ### I am also currently learning more about software development.
 ###i  love traveling, building people, reading and writing to ispire them.
 ###I will appreciate any of your suggestions and collaborative support that you may have.
-### You can reach me via https://SamuelMumbi.netfrix.app
+### You can reach me via https://samuelmumbi.netlify.app/
 
 <!--
 **SamuelMumbi/SamuelMumbi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
